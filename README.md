@@ -8,11 +8,11 @@
 ---
 ### 👩‍💻 About Me  
 
--> **Senior-2 Electronics and Communication Engineering student** at the **Faculty of Engineering, Ain Shams University**  
+**Senior-2 Electronics and Communication Engineering student** at the **Faculty of Engineering, Ain Shams University**  
 
--> Passionate about **Digital IC Design and Verification**, I'm dedicated to pushing the boundaries of technological innovation. With a strong foundation in **semiconductor fundamentals**, I enjoy architecting and optimizing complex digital systems.  
+Passionate about **Digital IC Design and Verification**, I'm dedicated to pushing the boundaries of technological innovation. With a strong foundation in **semiconductor fundamentals**, I enjoy architecting and optimizing complex digital systems.  
 
--> My experience spans **RTL design, functional verification, and synthesis techniques** — from coding to coverage. Whether I'm debugging intricate logic or ensuring design accuracy, I'm committed to delivering **robust, high-performance, and efficient solutions**.
+My experience spans **RTL design, functional verification, and synthesis techniques** — from coding to coverage. Whether I'm debugging intricate logic or ensuring design accuracy, I'm committed to delivering **robust, high-performance, and efficient solutions**.
 
 ---
 ### 📬 Contact Me  
