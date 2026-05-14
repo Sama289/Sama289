@@ -18,7 +18,7 @@ My experience spans **RTL design, functional verification, and synthesis techniq
 ### 📬 Contact Me  
 
 <a href="mailto:samaashraf2892002@gmail.com"><img src="https://img.shields.io/badge/Email-F27BA1?style=for-the-badge&logo=gmail&logoColor=white&label=samaashraf2892002%40gmail.com"/></a>  
-<a href="https://linkedin.com/in/sama-abdelwahab-36b730279"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=Sama%20Ashraf"/></a>  
+<a href="[https://linkedin.com/in/sama-abdelwahab-36b730279](https://www.linkedin.com/in/sama-ashraf-36b730279/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=Sama%20Ashraf"/></a>  
 <a href="https://github.com/Sama289"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white&label=Sama289"/></a>
 
 
